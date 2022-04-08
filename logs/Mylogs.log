@@ -1,0 +1,5 @@
+[DEBUG] 2022-03-31 04:35:13.233 [main] Log4jDemo - This is a debug message DemoLogger
+[INFO ] 2022-03-31 04:35:13.237 [main] Log4jDemo - This is an info message DemoLogger
+[WARN ] 2022-03-31 04:35:13.238 [main] Log4jDemo - This is a warn message DemoLogger
+[ERROR] 2022-03-31 04:35:13.238 [main] Log4jDemo - This is an error message DemoLogger
+[FATAL] 2022-03-31 04:35:13.238 [main] Log4jDemo - This is a fatal message DemoLogger

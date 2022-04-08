@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/testng_jar_files/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/testng_jar_files/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/testng_jar_files/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/testng_jar_files/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/testng_jar_files/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/testng_jar_files/httpclient5-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/testng_jar_files/httpcore5-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/testng_jar_files/httpcore5-h2-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/testng_jar_files/jarchivelib-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/testng_jar_files/jcommander-1.78.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/testng_jar_files/jquery-3.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/testng_jar_files/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/testng_jar_files/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/testng_jar_files/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/testng_jar_files/slf4j-api-1.7.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/testng_jar_files/testng-7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/testng_jar_files/webdrivermanager-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/bsh-2.0b6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/guava-25.1-android.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/guice-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/jackson-annotations-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/jackson-core-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/jackson-databind-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/slf4j-api-1.7.29.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GorantlL/OneDrive - HP Inc/Documents/ReportNG Jars/testng-6.14.3.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
